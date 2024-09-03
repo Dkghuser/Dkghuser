@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" width="100"/>
+  <<iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>>
 </div>
 
 <!---
