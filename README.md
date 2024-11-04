@@ -8,3 +8,13 @@
 <img src="https://komarev.com/ghpvc/?username=Dkghuser&style=flat-square&color=blue" alt=""/>
 </div>
 [![An image of @dkghuser's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@dkghuser)]
+
+<!--- 2nd Section on GitHub Analytics -->
+
+
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/Dkghuser">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dkghuser=ocean_dark" alt="Deepak K github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/Dkghuser/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Deepak K github stats" />
+<br>
+
