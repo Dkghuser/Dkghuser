@@ -11,10 +11,3 @@
 
 <!--- 2nd Section on GitHub Analytics -->
 
-
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Dkghuser">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dkghuser=ocean_dark" alt="Deepak K github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/Dkghuser/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Deepak K github stats" />
-<br>
-
