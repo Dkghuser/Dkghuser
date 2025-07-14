@@ -59,16 +59,18 @@ Aspiring Software Development Engineer (SDE) passionate about building impactful
 
 ## 📫 Connect with Me
 
-<!--
-Add your social links here later when you'd like!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakk46sd)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=github&logoColor=white)](https://github.com/in/Dkghuser)
+
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 -->
 
+<!--
 ---
 
-## 📝 Recent Activity
+## 📝 Recent Activity -->
 
 <!--START_SECTION:activity-->
 <!-- Your recent GitHub activity will be shown here -->
