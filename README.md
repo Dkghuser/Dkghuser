@@ -10,7 +10,7 @@
 <div align="center">
  Click here 👉 to view <a href="https://holopin.me/@dkghuser">My Holopin Badges</a><br>
 
-# Hi, I'm Dkghuser! 👋
+# Hi, I'm Deepak K (Dkghuser)! 👋
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Dkghuser&label=Profile%20Views)](https://github.com/Dkghuser)
 [![GitHub followers](https://img.shields.io/github/followers/Dkghuser.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Dkghuser?tab=followers)
@@ -46,7 +46,7 @@ Aspiring Software Development Engineer (SDE) passionate about building impactful
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkghuser&layout=compact&theme=radical" height="120" />
 </p>
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dkghuser&theme=dracula)](https://github.com/Dkghuser/github-readme-activity-graph)
+<h5>Deepak's github activity graph</h5><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dkghuser&theme=dracula"/>
 
 ---
 
