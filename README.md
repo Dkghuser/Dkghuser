@@ -37,6 +37,17 @@ Aspiring Software Development Engineer (SDE) passionate about building impactful
 
 ---
 
+## 🏅 Badges
+
+<p align="left">
+  <!-- GitHub Achievements -->
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Badge" height="32"/>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Badge" height="32"/>
+
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
